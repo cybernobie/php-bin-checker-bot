@@ -10,10 +10,12 @@ Test Bot: [Cyber Bin Checker Bot](https://telegram.me/cyberbincheckbot)
 
 After Deploying App on Heroku - Setup Webhook
 
-API Token - Get Api Token from [@botfather](https://telegram.me/botfather)
+BOT Token - Get Api Token from [@botfather](https://telegram.me/botfather)
 
-
-`https://api.telegram.org/bot<Api Token>/setWebhook?url=https://<your app name>.herokuapp.com/bot.php`
+How to Set WebHook?
+Copy Given Url (Below) And replace <Bot Token> With your Bot token And <your app name> with url heroku app name. 
+Then Just Paste It In Browser. 
+`https://api.telegram.org/bot<Bot Token>/setWebhook?url=https://<your app name>.herokuapp.com/bot.php`
 
 
 ### Command
