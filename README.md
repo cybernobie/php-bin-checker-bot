@@ -4,7 +4,7 @@ PHP BIN Checker Bot
 
 Fetch Via: https://bins.su
 
-
+Test Bot: [Telegram](https://telegram.me/cyberbincheckbot)
 ## Heroku Deploy
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
